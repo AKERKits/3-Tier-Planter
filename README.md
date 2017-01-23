@@ -1,2 +1,2 @@
-# 3-Tier-Planter
-A three level planter.
+# TrellisPlanter
+Trellis planter kit 
